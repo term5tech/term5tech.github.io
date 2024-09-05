@@ -2,18 +2,18 @@ BEGIN:VCARD
 VERSION:3.0
 N:Siebert;Elisabeth;;;
 FN:Elisabeth Siebert
-ORG:Stauferklinikum Mutlangen
-ADR;TYPE=WORK: Mutlangen, DE
+ORG:Stauferklinikum - Schwäbisch Gmünd
+ADR;TYPE=WORK:Ostalbkreis, Baden-Württemberg, DE
 TITLE:Auszubildende zur Pflegefachkraft
 TEL;TYPE=CELL:+491631881241
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
-TEL;TYPE=MSG:
+TEL;TYPE=MSG:+491631881241
 EMAIL;TYPE=WORK:elisabeth.siebert05@gmail.com
 URL;TYPE=Digital Business Card:
 URL:
-URL;TYPE=WhatsApp:+491631881241
+URL;TYPE=WhatsApp:https://wa.me/+491631881241
 KEY;TYPE=PGP;ENCODING=b:
-NOTE:
-UID:EnBizCard-100652639
+NOTE:Auszubildende Krankenschwester mit fundierten Kenntnissen in der Patientenversorgung und -pflege. Erfahren in der Durchführung grundlegender Pflegemaßnahmen sowie in der Assistenz bei medizinischen Eingriffen.
+UID:EnBizCard-100620097
 END:VCARD
